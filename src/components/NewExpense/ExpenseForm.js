@@ -62,7 +62,7 @@ function ExpenseForm(Props) {
           ></input>
         </div>
         <div className="new-expense__control ">
-          <label>Amt</label>
+          <label>Amount</label>
           <input
             type="number"
             min="0.01"
